@@ -16,10 +16,10 @@ During my time as a CAE Software Engineer, I developed a comprehensive set of in
 
 ## Video List / 视频列表
 
-- [Linear static analysis 线性静力分析]([https://www.bilibili.com/video/BV1WNjA6sECV/])  
-- [Topology optimization 拓扑优化](https://www.bilibili.com/video/BV1ANjA6sEWH/])  
-- [Modal analysis 模态分析]([https://www.bilibili.com/video/BV1yAjA6dE9b/])
-- [Linear buckling analysis 线性屈曲分析]([https://www.bilibili.com/video/BV1sAjA6dELd/])
+- [Linear static analysis 线性静力分析](https://www.bilibili.com/video/BV1WNjA6sECV/)  
+- [Topology optimization 拓扑优化](https://www.bilibili.com/video/BV1ANjA6sEWH/)  
+- [Modal analysis 模态分析](https://www.bilibili.com/video/BV1yAjA6dE9b/)
+- [Linear buckling analysis 线性屈曲分析](https://www.bilibili.com/video/BV1sAjA6dELd/)
 
 ---
 
